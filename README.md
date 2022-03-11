@@ -58,6 +58,9 @@
 - [52 谷歌云 对象存储攻防](https://zone.huoxian.cn/d/931)
 - [53 微软云 对象存储攻防](https://zone.huoxian.cn/d/940)
 - [54 华为云 OBS 对象存储攻防](https://zone.huoxian.cn/d/962-obs)
+- [55 Escaping privileged containers for fun](https://pwning.systems/posts/escaping-containers-for-fun/) `利用call_usermodehelper进行Docker逃逸`
+- [56 Container Escape to Shadow Admin: GKE Autopilot Vulnerabilities](https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/) `谷歌云GKE Autopilot容器逃逸漏洞分析`
+- [57 Dirty Pipe Linux Vulnerability: Overwriting Files in Container Images](https://blog.aquasec.com/cve-2022-0847-dirty-pipe-linux-vulnerability) `CVE-2022-0847 Dirty Pipe Linux复写文件漏洞可影响容器镜像`
 
 
 相关Github
